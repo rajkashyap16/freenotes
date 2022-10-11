@@ -1,0 +1,27 @@
+
+
+.tag {
+    font-weight: 600;
+    font-size: 18px;
+    padding-top:50px !important;
+}
+.tag a{
+    
+    
+    color: rgb(32, 172, 39);
+}
+.testimonial{
+ 
+background: rgba(65, 225, 50, 0.518);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(4.8px);
+-webkit-backdrop-filter: blur(4.8px);
+   
+    margin: 20px;
+    
+   
+    height: 70vh;
+    border-radius: 10px;
+
+}
